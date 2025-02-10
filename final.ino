@@ -2,8 +2,8 @@
 #include <ESPAsyncWebServer.h>
 #include <LiquidCrystal.h>  // Include the LCD library
 
-const char* ssid = "Kavee";
-const char* password = "11111111";
+const char* ssid = "your_ssid";
+const char* password = "your_pw";
 
 AsyncWebServer server(80);
 
